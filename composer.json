@@ -1,0 +1,15 @@
+{
+    "name": "alan.blair/bricks-multi-remote",
+    "autoload": {
+        "psr-4": {
+            "BricksMultiRemote\\": "src/BricksMultiRemote"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan.Blair",
+            "email": "alan@wpget.net"
+        }
+    ],
+    "require": {}
+}
